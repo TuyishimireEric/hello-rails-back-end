@@ -107,7 +107,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-  ./bin/dev
+  API: http://localhost:3000/greeting.json
 ```
 
 ### Run tests
